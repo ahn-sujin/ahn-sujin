@@ -9,4 +9,6 @@
 * Web standards and web accessibility
 * and other development languages...
 
-[![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahn-sujin)](https://github.com/anuraghazra/github-readme-stats)
+* * *
+
+[![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahn-sujin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
