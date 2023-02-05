@@ -27,8 +27,8 @@
 
 ### Contact
 
-<a href="https://velog.io/@hye_rin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hye_rin)</a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:candy980426@gmail.com)
+<a href="https://velog.io/@ahn-sujin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ahn-sujin)</a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:asj9674@gmail.com)
 <br />
 
 ### My Blog Posts
