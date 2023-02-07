@@ -29,6 +29,7 @@
 
 <a href="https://velog.io/@ahn-sujin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ahn-sujin)</a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:asj9674@gmail.com)
+<a href='https://ahn-sujin.notion.site/15e0e42cebc841ee8f0c5d9356730358'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <br />
 
 ### My Blog Posts
