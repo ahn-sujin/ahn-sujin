@@ -1,6 +1,8 @@
 ## Sujin Git Hub
 
-안녕하세요! ✨**프론트엔드 개발자 안수진**✨입니다.
+> 안녕하세요! ✨**프론트엔드 개발자 안수진**✨입니다. <br />
+관심있는 기술 스택은 `React Native` `Redux Toolkit`입니다.
+
 
 ### Tech Stack
 
