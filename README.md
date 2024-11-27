@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:asj9674@gmail.com)
 
 ### 👋🏻 Hi there! I'm a frontend developer.
-- I have experience operating **app** services using **`TypeScript`, `React Native`, `Next.js`, and `Styled-Components`**.🚀   
+- I have experience operating **app** services using **`TypeScript`, `React Native`, `Next.js`**.🚀   
 - I'm particularly interested in **UI/UX design** and building **design systems**. 💅🏻 
 - Outside of coding, I enjoy staying active, especially indoor **climbing**! 🏋🏻‍♀️ 🧗‍♀️💞
 
