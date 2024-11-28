@@ -4,7 +4,7 @@
 ### 👋🏻 Hi there! I'm a frontend developer.
 - I have experience operating **app** services using **`TypeScript`, `React Native`, `Next.js`**.🚀   
 - I'm particularly interested in **UI/UX design** and building **design systems**. 💅🏻 
-- Outside of coding, I enjoy staying active, especially indoor **climbing**! 🏋🏻‍♀️ 🧗‍♀️💞
+- Outside of coding, I enjoy exercise, especially indoor **climbing**! 🏋🏻‍♀️ 🧗‍♀️💞
 
 
 ### ✨ Skills
