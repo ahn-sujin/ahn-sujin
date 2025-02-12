@@ -1,10 +1,10 @@
 <a href="https://velog.io/@ahn-sujin">![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ahn-sujin)</a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:asj9674@gmail.com)
 
-### 👋🏻 Hi there! I'm a frontend developer.
-- I have experience operating **app** services using **`TypeScript`, `React Native`, `Next.js`**.🚀   
-- I'm particularly interested in **UI/UX design** and building **design systems**. 💅🏻 
-- Outside of coding, I enjoy exercise, especially indoor **climbing**! 🏋🏻‍♀️ 🧗‍♀️💞
+### 👋🏻 안녕하세요! 프론트엔드 개발자 안수진입니다.
+- 저는 **`TypeScript`, `React.js`, `Next.js`** 를 사용해서 앱을 운영한 경험이 있습니다.📱🚀   
+- **UI/UX 개선**과 **웹 성능 최적화**를 통한 사용자 경험 개선과 **디자인 시스템 구축**에 관심이 있습니다.💅🏻
+- 개발 외에도 운동을 즐기며, 특히 클라이밍을 좋아합니다.🏋🏻‍♀️ 🧗‍♀️💞
 
 
 ### ✨ Skills
